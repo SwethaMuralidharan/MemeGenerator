@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Meme Generator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+You can generate multiple memes which are fetched from an API and you can add texts on top and bottom of each meme. This app was built in ReactJs.
 
-In the project directory, you can run:
+![Screen Shot 2021-11-29 at 9 54 09 PM](https://user-images.githubusercontent.com/33131658/143993422-7818f342-2b36-4aea-84f8-d545d6931a0d.png)
 
 ### `npm start`
 
